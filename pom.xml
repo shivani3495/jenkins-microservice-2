@@ -36,7 +36,7 @@
                         <manifest>
                             <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
                             <addDefaultSpecificationEntries>true</addDefaultSpecificationEntries>
-                            <mainClass>App.java</mainClass> <!-- Replace with your main class -->
+                            <mainClass>App</mainClass> <!-- Replace with your main class -->
                         </manifest>
                     </archive>
                 </configuration>
